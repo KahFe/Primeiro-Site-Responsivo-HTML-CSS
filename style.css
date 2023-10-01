@@ -3,11 +3,11 @@
 body {
     margin: 0;
     font-family: arial, sans-serif;
-    background-image: url(../Universe.jpg);
+    background-image: url(Universe.jpg);
 }
 
 .hero {
-    background-image: url(../Lofi-Girl.png);
+    background-image: url(Lofi-Girl.png);
     height: 500px;
     background-position: center;
     background-size: cover;
